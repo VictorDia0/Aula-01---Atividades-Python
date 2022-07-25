@@ -1,4 +1,4 @@
-# Atividade 02
+# Faça um programa que calcule o IMC
 
 print('Vamos calcular se indice de massa corporal')
 nome =str(input('Digite seu Nome - '))
