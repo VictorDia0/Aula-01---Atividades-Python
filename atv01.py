@@ -1,4 +1,4 @@
-# Atividade 01
+# Atv01 - Faça um programa que receba a nota de 3 provas e mostre a media:
 
 nomealuno =str(input('Digite o nome do aluno desejado -'))
 prova01 =float(input('Prova 01 -'))
